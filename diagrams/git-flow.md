@@ -1,4 +1,6 @@
 # General Git Flow Structure Diagram
+
+```text
 +----------------------------+
 |      Deployable master     |
 |          Branch            |
@@ -50,8 +52,11 @@
 +----------------------------+
 |  Deploy to Production      |
 +----------------------------+
+```
 
 # Hotfix Git Flow Diagram
+
+```text
 +----------------------------+
 |      Deployable master     |
 |          Branch            |
