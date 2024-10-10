@@ -1,4 +1,4 @@
-# Gitlab Flow Diagram
+# GitLab Flow Diagram
 
 ```text
 +----------------------------+
