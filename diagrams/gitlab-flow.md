@@ -1,6 +1,6 @@
 # Gitlab Flow Diagram
 
-'''text
+```text
 +----------------------------+
 |      Deployable master     |
 |          Branch            |
