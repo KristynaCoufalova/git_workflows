@@ -16,7 +16,8 @@ git-workflow/
     ├── git-flow.md
     ├── github-flow.md
     └── gitlab-flow.md
-    
+```
+
 ## Workflows
 
 - **Git Flow**: A robust workflow for projects with scheduled releases.
